@@ -1,4 +1,4 @@
-# Simulating-Dense-Massive-MIMO-and-Small-Cells
+# Simulating-Massive-Multiple-Input-Multiple-Output-and-Small-Cells
 
 
 
