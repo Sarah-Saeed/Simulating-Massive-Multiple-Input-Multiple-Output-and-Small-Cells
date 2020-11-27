@@ -1,6 +1,6 @@
 %Solves problem "minimize the total power consumption while satisfying
 %the QoS constraints and the power constraints"
-%%The implementation utilizes and requires CVX: http://cvxr.com/
+%The implementation utilizes and requires CVX: http://cvxr.com/
 %
 %License: This code is licensed under the GPLv2 license. If you in any way
 %use this code for research that results in publications, please cite our
