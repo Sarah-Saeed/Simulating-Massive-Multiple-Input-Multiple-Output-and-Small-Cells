@@ -1,5 +1,5 @@
 %Implementation of the Multiflow-RZF algorithm 
-%%The implementation utilizes and requires CVX: http://cvxr.com/
+%The implementation utilizes and requires CVX: http://cvxr.com/
 
 %This file considers the general case with a macro base station and
 %multiple small cells. Each transmitter applies regularized zero-forcing
