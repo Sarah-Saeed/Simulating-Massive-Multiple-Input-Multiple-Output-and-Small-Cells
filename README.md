@@ -56,6 +56,8 @@ References:
 
 - E. Bjornson, N. Jald ¨ en, M. Bengtsson, and B. Ottersten, “Optimality ´ properties, distributed strategies, and measurement-based evaluation of coordinated multicell OFDMA transmission,” IEEE Trans. Signal Process., vol. 59, no. 12, pp. 6086–6101, 2011.
 
+- Emil Björnson, Marios Kountouris, Mérouane Debbah, “Massive MIMO and Small Cells: Improving Energy Efficiency by Optimal Soft-Cell Coordination,” Proceedings International Conference on Telecommunications (ICT), Casablanca, Morocco, May 2013
+
 
 
 
