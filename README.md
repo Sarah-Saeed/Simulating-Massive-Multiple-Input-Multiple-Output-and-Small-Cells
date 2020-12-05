@@ -20,9 +20,8 @@ Credits:
 References:
 -E. Bjornson and E. Jorswieck, “Optimal resource allocation in coordi- ¨ nated multi-cell systems,” Foundations and Trends in Communications and Information Theory, vol. 9, no. 2-3, pp. 113–381, 2013
 - https://massivemimobook.com/wp/
--emil bjornson,Associate Professor at Linköping University,
-Sweden,https://github.com/emilbjornson?tab=repositories
- -CVX Research Inc., “CVX: Matlab software for disciplined convex programming, version 2.0 beta,” http://cvxr.com/cvx, 2012
+-emil bjornson,Associate Professor at Linköping University,Sweden,https://github.com/emilbjornson?tab=repositories
+-CVX Research Inc., “CVX: Matlab software for disciplined convex programming, version 2.0 beta,” http://cvxr.com/cvx, 2012
 -CVX Research Inc., “CVX: Matlab software for disciplined convex programming, version 2.0 beta,http://cvxr.com/cvx/doc/install.html, 2012
  -S. Parkvall, E. Dahlman, G. Jongren, S. Landstr ¨ om, and L. Lindbom, ¨ “Heterogeneous network deployments in LTE – the soft-cell approach,” Ericsson Review, no. 2, 201
  -J. Hoydis, M. Kobayashi, and M. Debbah, “Green small-cell networks,” IEEE Veh. Technol. Mag., vol. 6, no. 1, pp. 37–43, 2011
