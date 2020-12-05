@@ -19,7 +19,7 @@ Credits:
 
 References:
 
-- E. Bjornson and E. Jorswieck, “Optimal resource allocation in coordi- ¨ nated multi-cell systems,” Foundations and Trends in Communications and Information Theory, vol. 9,no.23, pp. 113–381, 2013
+- E. Bjornson and E. Jorswieck, “Optimal resource allocation in coordinated multi-cell systems,” Foundations and Trends in Communications and Information Theory, vol. 9,no.23, pp. 113–381, 2013
 
 - https://massivemimobook.com/wp/
 
